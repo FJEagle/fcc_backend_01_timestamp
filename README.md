@@ -1,2 +1,1 @@
-# fcc_backend_01_timestamp
-fcc
+# Backend Challenges boilerplate - package.json
